@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
+    "ip": "tanjiro-mc.play.hosting",
     "port": 25584,
     "version": "1.20.1",
     "try-creative": false
