@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "TANJIROMC",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "tanjiro-mc.play.hosting",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "solocloud.host",
-    "port": 25565,
+    "port": 25584,
     "version": "1.20.1",
     "try-creative": false
   },
